@@ -2,7 +2,7 @@
 
 Psychometric Profiling beschreibt eine Technologie bei der das Onlineverhalten von vielen Millionen Menschen getrackt wird, um ihre Psychologie zu klassifizieren und sie zu beeinflussen. Der berüchtigste und best dokumentierte Fall bisher war die Wahlkampagne von Donald Trump durch Cambridge Analytica. Dieser interaktive Workshop fördert das Verständnis der zugrunde liegenden Technologien und Theorien, wie Psychologie, IT und Statistik, sowie der hinter Psychometric Profiling stehenden Gesellschaftsmechanismen und Interessensgruppen. Für ein tiefgreifendes und praktisches Verständnis werden wir Selbstexperimente durchführen, politische Botschaften auf Zielgruppen zuschneiden und eigene Vorhersagen psychologischer Eigenschaften aufgrund von Facebook-Likes erstellen. Für eine breitere Perspektive auf Psychometric Profiling schauen wir uns “traditionelle” politische Onlinewerbung an und analysieren existierende und aufkommende Technologie für politische Beeinflussung. In gemeinsamen Diskussionen werden wir versuchen die Bedeutung für unser persönliches Leben zu verstehen und Strategien andenken, die gegen eine solche Form des Überwachungskapitalismus verfolgt werden können.
 
-Dieser Workshop ist für die [FIfF-Konferenz 2019](2019.fiffkon.de) designt und findet am 23. November 2019 ab 14:30 Uhr im MZH an der Uni Bremen statt.
+Dieser Workshop ist für die [FIfF-Konferenz 2019](https://2019.fiffkon.de) designt und findet am 23. November 2019 ab 14:30 Uhr im MZH an der Uni Bremen statt.
 Die Teilnehmenden Zahl ist auf 30 bis 40 begrenzt.
 
 ## Workshopplan
